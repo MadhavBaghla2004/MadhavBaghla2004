@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Interested in Data Science and Machine Learning
-- 🎓 &nbsp; Studying Computer Engineering and Mathematics at University of California San Diego
+- 🎓 &nbsp; Studying Computer Engineering at University of California San Diego
 - 💼 &nbsp; Open to Internships
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
