@@ -43,13 +43,28 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=55e22d)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=1572B6)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-333333?&style=flate&logo=PyCharm&logoColor=55e22d)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=1572B6)
 
   
 <h3> </h3>
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/punyahB/github-readme-stats)
+
+<h3> 🎯&nbsp;Goals for the upcoming year </h3>
+
+```python
+class ReadMe:
+    def __init__(self, username="MadhavBaghla2004", year=2023):
+        self.username = username
+        self.name = 'Madhav Baghla'
+        self.goals = {
+            '1': 'Be consistent at school',
+            '2': 'Hone Data Science skills',
+            '3': 'Build projects'
+        }
+me = ReadMe(2023)
+```  
 
 <h3> 📱 &nbsp;Socials:</h3>
 
