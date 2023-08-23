@@ -1,5 +1,12 @@
 <h2> Hey there! I'm Madhav</h2>
 
+<br>
+
+<img align="center" src="https://clre.ucsd.edu/wp-content/uploads/2019/11/resources-header.jpg" alt="Madhav's  Profile Banner">
+
+</br>  
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Interested in Data Science and Machine Learning
