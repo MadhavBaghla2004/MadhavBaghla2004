@@ -44,7 +44,7 @@
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/punyahB/github-readme-stats)
 
-<h3> 📱 &nbsp;You can reach me at:</h3>
+<h3> 📱 &nbsp;Socials:</h3>
 
 <p align="center">
 
