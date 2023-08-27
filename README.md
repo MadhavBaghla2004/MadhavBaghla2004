@@ -1,4 +1,5 @@
-<h2> Hey there! I'm Madhav</h2>
+## Hey There, I'm Madhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 <br>
 
@@ -20,6 +21,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Madhav's Github Stats">
 
 </br>  
+
+<div align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla2004&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
+alt="Github streaks">
+</div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -64,7 +70,11 @@ class ReadMe:
             '3': 'Build projects'
         }
 me = ReadMe(2023)
-```  
+```
+
+<h3> 📈 &nbsp; Profile Views:</h3>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla2004&label=Profile%20views&color=00ffff&style=flat" alt="MadhavBaghla2004" /> </p>
 
 <h3> 📱 &nbsp;Socials:</h3>
 
@@ -77,6 +87,14 @@ me = ReadMe(2023)
 
   <a href="https://twitter.com/OnlyMB04">
     <img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Madhav's Twitter Profile" height="30" width="30">
+  </a>
+
+   <a href="https://discord.com/users/735389282184986744">
+    <img src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="Madhav's Discord Profile" height="30" width="30">
+  </a>
+
+   <a href="mailto:madhavbaghla4@gmail.com">
+    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Madhav's Gmail Account" height="30" width="30">
   </a>
   
 </p>
