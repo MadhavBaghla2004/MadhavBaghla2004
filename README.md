@@ -86,7 +86,7 @@ me = ReadMe(2023)
 
 
   <a href="https://twitter.com/OnlyMB04">
-    <img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Madhav's Twitter Profile" height="30" width="30">
+    <img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="Madhav's Twitter Profile" height="30" width="30">
   </a>
 
    <a href="https://discord.com/users/735389282184986744">
