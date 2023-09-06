@@ -16,11 +16,9 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 ### GitHub Statistics
-<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Madhav's Github Stats">
-
-</br>  
+| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&text_color=daf7dc&bg_color=151515" /></a> |
+| ------------- | ------------- |
 
 <div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla2004&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
@@ -53,9 +51,7 @@ alt="Github streaks">
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=1572B6)
 
   
-<h3> </h3>
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/punyahB/github-readme-stats)
 
 <h3> 🎯&nbsp;Goals for the upcoming year </h3>
 
@@ -95,6 +91,10 @@ me = ReadMe(2023)
 
    <a href="mailto:madhavbaghla4@gmail.com">
     <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Madhav's Gmail Account" height="30" width="30">
+  </a>
+
+   <a href="https://github.com/MadhavBaghla">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="Madhav's GitHub Account" height="30" width="30">
   </a>
   
 </p>
