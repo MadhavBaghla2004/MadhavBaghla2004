@@ -68,6 +68,17 @@ class ReadMe:
 me = ReadMe(2023)
 ```
 
+<h3> ✳️  &nbsp;Interests: </h3>
+
+  - 🎨 &nbsp;
+  [![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=flat)](https://en.wikipedia.org/wiki/Data_science)
+  [![Generative AI](https://img.shields.io/badge/Generative%20AI-yellow?style=flat)](https://www.nvidia.com/en-us/glossary/data-science/generative-ai/)
+  [![Web3](https://img.shields.io/badge/Web%203.0-violet?style=flat)](https://hbr.org/2022/05/what-is-web3)
+  [![ML](https://img.shields.io/badge/Machine%20Learning-orange?style=flat)](https://www.ibm.com/topics/machine-learning)
+  
+  
+<h3> </h3>
+
 <h3> 📈 &nbsp; Profile Views:</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla2004&label=Profile%20views&color=00ffff&style=flat" alt="MadhavBaghla2004" /> </p>
