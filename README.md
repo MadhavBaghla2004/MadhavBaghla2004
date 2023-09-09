@@ -76,6 +76,10 @@ class ReadMe:
         }
 me = ReadMe(2023)
 ```
+<h3> <img src="https://cdn.dribbble.com/users/139863/screenshots/2095776/content.gif" width="50px" /> &nbsp;Popular Repositories </h3>
+<a href="https://github.com/MadhavBaghla2004/MadhavBaghla2004">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavBaghla2004&repo=MadhavBaghla2004&theme=onedark" />
+</a>  
 
 <h3> <img src="https://www.protocol80.com/hubfs/blog-files/Increasing-Traffic-Counter.gif" width="70px" /> &nbsp; Profile Views:</h3>
 
