@@ -8,56 +8,65 @@
 </br>  
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Interested in Data Science and Machine Learning
-- 🎓 &nbsp; Studying Computer Engineering at University of California San Diego
+
+
+- 🤔 &nbsp;  Interested in Data Science and Machine Learning
+- 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
 - 💼 &nbsp; Open to Internships
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌍 &nbsp; I can speak English, Hindi and French
 
-### GitHub Statistics
+<h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
-| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&text_color=daf7dc&bg_color=151515" /></a> |
+| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&theme=merko" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla2004&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
 alt="Github streaks">
 </div>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="70px" />  &nbsp;Tech Stack </h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=117fed)
-  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=c90076)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-333333?&style=flate&logo=PyCharm&logoColor=55e22d)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=1572B6)
+- <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
+  <a href="https://www.java.com/en/"><img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white"></a>
+  <a href="https://www.r-project.org/"> <img src="https://img.shields.io/badge/-R-00008b?style=flat&logo=R&logoColor=white"></a>
+  
+  
+- <img src="https://img.shields.io/badge/Database%20:-adff2f?style=flat&logoColor=white"> &nbsp;
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-66cdaa?style=flat&logo=mysql&logoColor=blue"></a>
+  
+- <img src="https://img.shields.io/badge/Tools And%20Technologies :-adff2f?style=flat&logoColor=white">  &nbsp; &nbsp;
+  <a href="https://git-scm.com"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
+  <a href="https://github.com"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
+  <a href="https://www.markdownguide.org"><img src="http://img.shields.io/badge/-Markdown-ff0000?style=flat&logo=markdown&logoColor=FFFFFF"></a>
 
   
+- <img src="https://img.shields.io/badge/IDEs %20:-adff2f?style=flat&logoColor=white">  &nbsp;
+   <a href="https://code.visualstudio.com"><img src="http://img.shields.io/badge/-Visual%20Studio%20Code-1e90ff?style=flat&logo=visual-studio-code&logoColor=FFFFFF"></a>
+   <a href="https://posit.co/products/open-source/rstudio/"><img src="http://img.shields.io/badge/-RStudio-4169e1?style=flat&logo=rstudio&logoColor=FFFFFF"></a>
+   <a href="https://www.jetbrains.com/pycharm/"><img src="http://img.shields.io/badge/-PyCharm-ff1493?style=flat&logo=PyCharm&logoColor=FFFFFF"></a>
+   <a href="https://www.jetbrains.com/idea/"><img src="http://img.shields.io/badge/-IntelliJ -ff69b4?style=flat&logo=intellij-idea&logoColor=FFFFFF"></a>
+
+- <img src="https://img.shields.io/badge/Data Analysis %20 And Visualisation Tools :-adff2f?style=flat&logoColor=white">  &nbsp;
+  <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/Power_BI-9932cc?style=flat&logo=powerbi&logoColor=white"></a>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
+
+  
+<h3> </h3>
 
 
-<h3> 🎯&nbsp;Goals for the upcoming year </h3>
+
+
+<h3> <img src="https://media3.giphy.com/media/3oz8xD8KOjTwxGG1q0/200w.gif?cid=6c09b95209eb0qcvv6pjeh4ip4x1bitp2aph52md3ay2iy7t&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px" /> &nbsp;Goals for the Upcoming Year </h3>
 
 ```python
 class ReadMe:
-    def __init__(self, username="MadhavBaghla2004", year=2023):
+    def __init__(self, username="MadhavBaghla", year=2023):
         self.username = username
         self.name = 'Madhav Baghla'
         self.goals = {
@@ -68,45 +77,17 @@ class ReadMe:
 me = ReadMe(2023)
 ```
 
-<h3> ✳️  &nbsp;Interests: </h3>
+<h3> <img src="https://www.protocol80.com/hubfs/blog-files/Increasing-Traffic-Counter.gif" width="70px" /> &nbsp; Profile Views:</h3>
 
-  - 🎨 &nbsp;
-  [![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=flat)](https://en.wikipedia.org/wiki/Data_science)
-  [![Generative AI](https://img.shields.io/badge/Generative%20AI-yellow?style=flat)](https://www.nvidia.com/en-us/glossary/data-science/generative-ai/)
-  [![Web3](https://img.shields.io/badge/Web%203.0-violet?style=flat)](https://hbr.org/2022/05/what-is-web3)
-  [![ML](https://img.shields.io/badge/Machine%20Learning-orange?style=flat)](https://www.ibm.com/topics/machine-learning)
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla2004&label=Profile%20views&color=ff1493&style=for-the-badge" alt="View Count" /> </p>
+
+<h3> <img src="https://cdn.dribbble.com/users/891352/screenshots/7105199/media/5238cf20f0301e51fea9cad8912b9ea3.gif" width="50px" /> &nbsp;Socials:</h3>
+
+| [<img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="linkedin logo" width="30">](https://www.linkedin.com/in/madhavbaghla) | [<img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="X logo" width="30">](https://twitter.com/OnlyMB04) | [<img src="https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif" alt="discord logo" width="30">](https://discord.com/users/735389282184986744)| [<img src="https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif" alt="gmail logo" width="30">](mailto:madhavbaghla4@gmail.com) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="github logo" width="30">](https://github.com/MadhavBaghla2004) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stack logo" width="24">](https://www.hackerrank.com/madhavbaghla2004)| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stack logo" width="24">](https://kaggle.com/madhavbaghla)
+|---|---|---|---|---|---|---|
+
+
+
+
   
-  
-<h3> </h3>
-
-<h3> 📈 &nbsp; Profile Views:</h3>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla2004&label=Profile%20views&color=00ffff&style=flat" alt="MadhavBaghla2004" /> </p>
-
-<h3> 📱 &nbsp;Socials:</h3>
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/madhav-baghla-324004203/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Madhav's LinkedIn Profile" height="30" width="30">
-  </a>
-
-
-  <a href="https://twitter.com/OnlyMB04">
-    <img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="Madhav's Twitter Profile" height="30" width="30">
-  </a>
-
-   <a href="https://discord.com/users/735389282184986744">
-    <img src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="Madhav's Discord Profile" height="30" width="30">
-  </a>
-
-   <a href="mailto:madhavbaghla4@gmail.com">
-    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Madhav's Gmail Account" height="30" width="30">
-  </a>
-
-   <a href="https://github.com/MadhavBaghla">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="Madhav's GitHub Account" height="30" width="30">
-  </a>
-  
-</p>
   
