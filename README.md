@@ -20,11 +20,11 @@
 
 <h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
-| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&theme=merko" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=synthwave&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
 alt="Github streaks">
 </div>
 
@@ -79,6 +79,9 @@ me = ReadMe(2023)
 <h3> <img src="https://cdn.dribbble.com/users/139863/screenshots/2095776/content.gif" width="50px" /> &nbsp; Top Repositories </h3>
 <a href="https://github.com/MadhavBaghla2004/MadhavBaghla2004">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavBaghla2004&repo=MadhavBaghla2004&theme=highcontrast" />
+</a>
+<a href="https://github.com/MadhavBaghla2004/MadhavBaghla2004">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavBaghla2004&repo=Portfolio-Website&theme=vision-friendly-dark" />
 </a>  
 
 <h3> <img src="https://www.protocol80.com/hubfs/blog-files/Increasing-Traffic-Counter.gif" width="70px" /> &nbsp; Profile Views:</h3>
