@@ -24,7 +24,7 @@
 | ------------- | ------------- |
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla2004&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
 alt="Github streaks">
 </div>
 
