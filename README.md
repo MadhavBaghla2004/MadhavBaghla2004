@@ -1,5 +1,6 @@
-## Hey There, I'm Madhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1> <img src="https://media.tenor.com/y2apQwKW7okAAAAM/gif.gif" width="50px">&nbsp; About Me</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4500&color=5376F7&multiline=true&lines=Hey+There%2C+I+am+Madhav+Baghla)](https://git.io/typing-svg)
 
 <br>
 
@@ -8,20 +9,19 @@
 </br>  
 
 
-<h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;About Me </h3>
+<h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;Education & Interests: </h3>
 
 
-
-- 🤔 &nbsp;  Interested in Data Science and Machine Learning
 - 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
-- 💼 &nbsp; Open to Internships
+- 🤔 &nbsp;  Interested in Data Science and Machine Learning
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Open to Internships
 - 🌍 &nbsp; I can speak English, Hindi and French
 
 <h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
-| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=synthwave&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=synthwave&hide_border=true" /></a> | <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="250px"> |
+| ------------- | ------------- | ------------- | 
 
 <div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla2004&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
