@@ -1,6 +1,8 @@
 <h1> <img src="https://media.tenor.com/y2apQwKW7okAAAAM/gif.gif" width="50px">&nbsp; About Me</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4500&color=5376F7&multiline=true&lines=Hey+There%2C+I+am+Madhav+Baghla)](https://git.io/typing-svg)
+<img src="https://media.tenor.com/85R9QYRANgEAAAAC/discord-wumpus.gif" width=50px>
+
 
 <br>
 
@@ -20,7 +22,7 @@
 
 <h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
-| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=synthwave&hide_border=true" /></a> | <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="200px"> |
+| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=synthwave&hide_border=true" /></a> | <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="200px"> |
 | ------------- | ------------- | ------------- | 
 
 <div align="left">
@@ -66,7 +68,7 @@ alt="Github streaks">
 
 ```python
 class ReadMe:
-    def __init__(self, username="MadhavBaghla", year=2023):
+    def __init__(self, username="MadhavBaghla2004", year=2023):
         self.username = username
         self.name = 'Madhav Baghla'
         self.goals = {
