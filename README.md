@@ -11,7 +11,7 @@
 </br>  
 
 
-<h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;Education & Interests: </h3>
+<h3> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;Education & Interests: </h3>
 
 
 - 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
@@ -26,11 +26,11 @@
 | ------------- | ------------- | ------------- | 
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla2004&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
+<img src="https://streak-stats.demolab.com/?user=MadhavBaghla2004&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
 alt="Github streaks">
 </div>
 
-<h3>  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="70px" />  &nbsp;Tech Stack </h3>
+<h3>  <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18900290.jpg" width="70px" />  &nbsp;Tech Stack </h3>
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
@@ -60,8 +60,6 @@ alt="Github streaks">
 
   
 <h3> </h3>
-
-
 
 
 <h3> <img src="https://media1.giphy.com/media/3o6gEf6bTrv3PpaEOA/200w.gif?cid=6c09b952tf2uafs5666l196cbrgvn18l06set5up7iv6kbe4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px" /> &nbsp;Goals for the Upcoming Year </h3>
