@@ -1,4 +1,4 @@
-<h1> <img src="https://media.tenor.com/y2apQwKW7okAAAAM/gif.gif" width="50px">&nbsp; About Me</h1>
+<h1><img src="https://st.depositphotos.com/1008096/56726/i/450/depositphotos_567263850-stock-photo-text-card-concept-background.jpg" width="50px"> &nbsp; About Me: </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4500&color=5376F7&multiline=true&lines=Hey+There%2C+I+am+Madhav+Baghla)](https://git.io/typing-svg)
 <img src="https://media.tenor.com/85R9QYRANgEAAAAC/discord-wumpus.gif" width=50px>
