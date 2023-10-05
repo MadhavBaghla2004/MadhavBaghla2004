@@ -11,7 +11,7 @@
 </br>  
 
 
-<h3> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;Education & Interests: </h3>
+<h3> <img src="https://frameyourfuture.files.wordpress.com/2015/04/4e2e0ce15ebbc745e82acbbe0d8da450.jpg" width="70px" />  &nbsp;Education & Interests: </h3>
 
 
 - 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
@@ -20,7 +20,7 @@
 - 💼 &nbsp; Open to Internships
 - 🌍 &nbsp; I can speak English, Hindi and French
 
-<h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
+<h3><img src="https://www.shutterstock.com/shutterstock/videos/1073817029/thumb/3.jpg?ip=x480" width="100px"/> &nbsp; GitHub Statistics: </h3>
 
 | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=synthwave&hide_border=true" /></a> | <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="200px"> |
 | ------------- | ------------- | ------------- | 
@@ -30,7 +30,7 @@
 alt="Github streaks">
 </div>
 
-<h3>  <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18900290.jpg" width="70px" />  &nbsp;Tech Stack </h3>
+<h3>  <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18900290.jpg" width="70px" />  &nbsp;Tech Stack: </h3>
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
@@ -58,11 +58,9 @@ alt="Github streaks">
   <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/Power_BI-9932cc?style=flat&logo=powerbi&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
 
+
   
-<h3> </h3>
-
-
-<h3> <img src="https://media1.giphy.com/media/3o6gEf6bTrv3PpaEOA/200w.gif?cid=6c09b952tf2uafs5666l196cbrgvn18l06set5up7iv6kbe4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px" /> &nbsp;Goals for the Upcoming Year </h3>
+<h3> <img src="https://images.pond5.com/ambition-animated-word-clouddesign-animation-footage-159734683_prevstill.jpeg" width="100px" /> &nbsp;Goals for the Upcoming Year: </h3>
 
 ```python
 class ReadMe:
@@ -76,7 +74,7 @@ class ReadMe:
         }
 me = ReadMe(2023)
 ```
-<h3> <img src="https://cdn.dribbble.com/users/139863/screenshots/2095776/content.gif" width="50px" /> &nbsp; Top Repositories </h3>
+<h3>Top Repositories: </h3>
 <a href="https://github.com/MadhavBaghla2004/Streamlit-Web-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavBaghla2004&repo=Streamlit-Web-App&theme=highcontrast" />
 </a>
@@ -84,11 +82,11 @@ me = ReadMe(2023)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavBaghla2004&repo=Portfolio-Website&theme=vision-friendly-dark" />
 </a>  
 
-<h3> <img src="https://www.protocol80.com/hubfs/blog-files/Increasing-Traffic-Counter.gif" width="70px" /> &nbsp; Profile Views:</h3>
+<h3> Profile Views:</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla2004&label=Profile%20views&color=ff1493&style=for-the-badge" alt="View Count" /> </p>
 
-<h3> <img src="https://cdn.dribbble.com/users/891352/screenshots/7105199/media/5238cf20f0301e51fea9cad8912b9ea3.gif" width="50px" /> &nbsp;Socials:</h3>
+<h3> Socials:</h3>
 
 | [<img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="linkedin logo" width="30">](https://www.linkedin.com/in/madhavbaghla) | [<img src="https://media2.giphy.com/media/KDGLRKwIMVXV5XLieP/200w.gif?cid=6c09b9526jb7xzccujs7k5icntvr2dko4nnzefrbuovdgdp8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="X logo" width="30">](https://twitter.com/OnlyMB04) | [<img src="https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif" alt="discord logo" width="30">](https://discord.com/users/735389282184986744)| [<img src="https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif" alt="gmail logo" width="30">](mailto:madhavbaghla4@gmail.com) | [<img src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif" alt="github logo" width="30">](https://github.com/MadhavBaghla2004) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank logo" width="40">](https://www.hackerrank.com/madhavbaghla2004)| [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kaggle logo" width="40">](https://kaggle.com/madhavbaghla)| [<img src="https://miro.medium.com/v2/resize:fit:960/1*H7hinsNdS_kAcf6kypYKuA.gif" alt="reddit logo" width="40">](https://www.reddit.com/user/Electrical_Fun_536)|
 |---|---|---|---|---|---|---|---|
