@@ -37,6 +37,7 @@ alt="Github streaks">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
   <a href="https://www.java.com/en/"><img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white"></a>
   <a href="https://www.r-project.org/"> <img src="https://img.shields.io/badge/-R-00008b?style=flat&logo=R&logoColor=white"></a>
+   <a href="https://www.w3schools.com/c/c_intro.php?external_link=true"> <img src="https://img.shields.io/badge/-C-C71585?style=flat&logo=C&logoColor=white"></a>
   
   
 - <img src="https://img.shields.io/badge/Database%20:-adff2f?style=flat&logoColor=white"> &nbsp;
@@ -47,6 +48,8 @@ alt="Github streaks">
   <a href="https://git-scm.com"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
   <a href="https://github.com"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
   <a href="https://www.markdownguide.org"><img src="http://img.shields.io/badge/-Markdown-ff0000?style=flat&logo=markdown&logoColor=FFFFFF"></a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white"></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg"></a>
 
   
 - <img src="https://img.shields.io/badge/IDEs %20:-adff2f?style=flat&logoColor=white">  &nbsp;
