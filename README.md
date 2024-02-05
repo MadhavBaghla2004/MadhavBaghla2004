@@ -26,12 +26,10 @@
 <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats-mu-rouge.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=donut&theme=synthwave&hide_border=true" width="350px" /></a>| <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="350px"> |
 | ------------- | ------------- |
 
-<div align="left">
-<img src="https://streak-stats.demolab.com/?user=MadhavBaghla2004&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
-alt="Github streaks">
-</div>
 
-<h3>  <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18900290.jpg" width="70px" />  &nbsp;Tech Stack: </h3>
+
+
+<h3>  <img src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif" width="70px" />  &nbsp;Tech Stack: </h3>
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
