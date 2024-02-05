@@ -1,4 +1,4 @@
-<h1><img src="https://st.depositphotos.com/1008096/56726/i/450/depositphotos_567263850-stock-photo-text-card-concept-background.jpg" width="50px"> &nbsp; About Me: </h1>
+<h1><img src="https://i.pinimg.com/originals/09/b0/08/09b008ceb45878eb34180d23506e4212.gif" width="70px"> &nbsp; About Me: </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4500&color=5376F7&multiline=true&lines=Hey+There%2C+I+am+Madhav+Baghla)](https://git.io/typing-svg)
 <img src="https://media.tenor.com/85R9QYRANgEAAAAC/discord-wumpus.gif" width=50px>
@@ -11,7 +11,7 @@
 </br>  
 
 
-<h3> <img src="https://frameyourfuture.files.wordpress.com/2015/04/4e2e0ce15ebbc745e82acbbe0d8da450.jpg" width="70px" />  &nbsp;Education & Interests: </h3>
+<h2> <img src="https://i.pinimg.com/originals/8f/a8/db/8fa8db7e112b19564ab4ec2466dee396.gif" width="70px" />  &nbsp;Education & Interests: </h2>
 
 
 - 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
@@ -20,7 +20,7 @@
 - 💼 &nbsp; Open to Internships
 - 🌍 &nbsp; Polyglot- I know 5 languages
 
-<h3><img src="https://www.shutterstock.com/shutterstock/videos/1073817029/thumb/3.jpg?ip=x480" width="100px"/> &nbsp; GitHub Statistics: </h3>
+<h3><img src="https://cdn.dribbble.com/users/80960/screenshots/1388718/shot6.gif" width="70px"/> &nbsp; GitHub Statistics: </h3>
 
 <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats-mu-rouge.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a>  
 <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats-mu-rouge.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=donut&theme=synthwave&hide_border=true" width="350px" /></a>| <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="350px"> |
@@ -62,27 +62,8 @@
 
 
   
-<h3> <img src="https://images.pond5.com/ambition-animated-word-clouddesign-animation-footage-159734683_prevstill.jpeg" width="100px" /> &nbsp;Goals for the Upcoming Year: </h3>
+ 
 
-```python
-class ReadMe:
-    def __init__(self, username="MadhavBaghla2004", year=2023):
-        self.username = username
-        self.name = 'Madhav Baghla'
-        self.goals = {
-            '1': 'Be consistent at school',
-            '2': 'Hone Data Science skills',
-            '3': 'Build projects'
-        }
-me = ReadMe(2023)
-```
-<h3>Top Repositories: </h3>
-<a href="https://github.com/MadhavBaghla2004/Streamlit-Web-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavBaghla2004&repo=Streamlit-Web-App&theme=highcontrast" />
-</a>
-<a href="https://github.com/MadhavBaghla2004/Portfolio-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavBaghla2004&repo=Portfolio-Website&theme=vision-friendly-dark" />
-</a>  
 
 <h3> Profile Views:</h3>
 
