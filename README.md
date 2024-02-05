@@ -18,12 +18,13 @@
 - 🤔 &nbsp;  Interested in Data Science and Machine Learning
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - 💼 &nbsp; Open to Internships
-- 🌍 &nbsp; I can speak English, Hindi and French
+- 🌍 &nbsp; Polyglot- I know 5 languages
 
 <h3><img src="https://www.shutterstock.com/shutterstock/videos/1073817029/thumb/3.jpg?ip=x480" width="100px"/> &nbsp; GitHub Statistics: </h3>
 
-| <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-madhavs-projects-f5cacf5d.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-madhavs-projects-f5cacf5d.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=compact&theme=synthwave&hide_border=true" /></a> | <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="200px"> |
-| ------------- | ------------- | ------------- | 
+<a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-madhavs-projects-f5cacf5d.vercel.app/api?username=MadhavBaghla2004&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&theme=blue_navy" alt="Madhav's github stats" /></a>  
+<a href="https://github.com/MadhavBaghla2004/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-madhavs-projects-f5cacf5d.vercel.app/api/top-langs/?username=MadhavBaghla2004&layout=donut&theme=synthwave&hide_border=true" width="350px" /></a>| <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="350px"> |
+| ------------- | ------------- |
 
 <div align="left">
 <img src="https://streak-stats.demolab.com/?user=MadhavBaghla2004&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
