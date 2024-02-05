@@ -16,9 +16,9 @@
 
 - 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
 - 🤔 &nbsp;  Interested in Data Science and Machine Learning
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- 💼 &nbsp; Open to Internships
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence
 - 🌍 &nbsp; Polyglot- I know 5 languages
+- 🥇 &nbsp; Soccer and Basketball enjoyer
 
 <h3><img src="https://cdn.dribbble.com/users/80960/screenshots/1388718/shot6.gif" width="70px"/> &nbsp; GitHub Statistics: </h3>
 
