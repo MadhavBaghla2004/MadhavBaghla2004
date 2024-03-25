@@ -61,7 +61,10 @@
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
 
 
-![Snake animation](https://raw.githubusercontent.com/{MadhavBaghla2004}/{MadhavBaghla2004}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/MadhavBaghla2004/MadhavBaghla2004/output/github-contribution-grid-snake.svg)
+
+
+
  
 
 
