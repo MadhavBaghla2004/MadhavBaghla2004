@@ -29,7 +29,9 @@
 
 
 
-<h3>  <img src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif" width="70px" />  &nbsp;Tech Stack: </h3>
+<h3>  <img src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif" width="50px" />  &nbsp;Tech Stack: </h3>
+
+
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
@@ -60,6 +62,8 @@
   <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/Power_BI-9932cc?style=flat&logo=powerbi&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
 
+
+<h3><img src="https://assets-v2.lottiefiles.com/a/f62481a4-1172-11ee-aa7c-232f008dfb14/Sl4fTVnhQL.gif" width="40px"> &nbsp; Github Contributions in the Last Year: </h3>
 
 ![Snake animation](https://raw.githubusercontent.com/MadhavBaghla2004/MadhavBaghla2004/output/github-contribution-grid-snake.svg)
 
