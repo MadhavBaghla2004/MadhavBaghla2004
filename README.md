@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="center" src="https://clre.ucsd.edu/wp-content/uploads/2019/11/resources-header.jpg" alt="Madhav's  Profile Banner">
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fucsdinnovation&psig=AOvVaw0pVtao-v855V2gJksSrg7e&ust=1745912840233000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDZn6ee-owDFQAAAAAdAAAAABAP" alt="Madhav's  Profile Banner">
 
 </br>  
 
