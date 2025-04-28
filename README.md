@@ -15,6 +15,7 @@
 
 
 - 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
+- 💼 &nbsp;  Data Science & Business Intelligence Intern at Novartis
 - 🤔 &nbsp;  Interested in Data Science and Machine Learning
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence
 - 🌍 &nbsp; Polyglot- I know 5 languages
