@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fucsdinnovation&psig=AOvVaw0pVtao-v855V2gJksSrg7e&ust=1745912840233000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDZn6ee-owDFQAAAAAdAAAAABAP" alt="Madhav's  Profile Banner">
+<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQGZHAFy1qFxhQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1675796902998?e=2147483647&v=beta&t=VxsfGpGz3jDOElcjAcpF7uDestAiuDk4yw4T6SbD1n0" alt="Madhav's  Profile Banner">
 
 </br>  
 
