@@ -14,8 +14,7 @@
 <h2> <img src="https://i.pinimg.com/originals/8f/a8/db/8fa8db7e112b19564ab4ec2466dee396.gif" width="70px" />  &nbsp;Education & Interests: </h2>
 
 
-- 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
-- 💼 &nbsp;  Data Science & Business Intelligence Intern at Novartis
+- 🎓 &nbsp;  Computer Engineering @ UC San Diego
 - 💡 &nbsp;  Interested in Data Science and Machine Learning
 - 🎵 &nbsp;  Enjoy Soccer, Basketball, Chess, Hiking, Reading, Music
 
